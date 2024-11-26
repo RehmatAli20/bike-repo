@@ -33,7 +33,7 @@ export default function Home() {
             <button id="bikebuton">Get Details</button>
           </div>
           <div className="bikes">
-          <Image src="/home/honda.jpg"  alt="bike" id="bikeimg" width={600} height={400}></Image>
+          <Image src="/home/Honda.jpg"  alt="bike" id="bikeimg" width={600} height={400}></Image>
 
             <button id="bikebuton">Get Details</button>
           </div>
