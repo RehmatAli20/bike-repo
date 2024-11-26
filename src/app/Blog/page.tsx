@@ -24,19 +24,19 @@ export default function Blog(){
         <h2>LATEST POST</h2>
         <div className='latestpost'>
           <div className='contaner'>
-          <Image  src={"/Blog/post_1.png"} width={50} height={50} alt="post"></Image>
+          <Image  src={"/blog/post_1.png"} width={50} height={50} alt="post"></Image>
            <Link className='list' href="#"><h4>Old Bike Auto Parts</h4></Link>
           </div>
           <div className='contaner'>
-          <Image  src={"/Blog/post_2.png"} width={50} height={50} alt="post"></Image>
+          <Image  src={"/blog/post_2.png"} width={50} height={50} alt="post"></Image>
           <Link className='list' href="#"><h4>Couple Riding Hard</h4></Link>
           </div>
           <div className='contaner'>
-          <Image  src={"/Blog/post_3.png"} width={50} height={50} alt="post"></Image>
+          <Image  src={"/blog/post_3.png"} width={50} height={50} alt="post"></Image>
           <Link className='list' href="#"><h4>Lets Race Begain</h4></Link>
           </div>
           <div className='contaner'>
-          <Image  src={"/Blog/post_4.png"} width={50} height={50} alt="post"></Image>
+          <Image  src={"/blog/post_4.png"} width={50} height={50} alt="post"></Image>
           <Link className='list' href="#"><h4>New Bike Auto Parts</h4></Link>
           </div>
          </div>
